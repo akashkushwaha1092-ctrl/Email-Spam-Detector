@@ -13,7 +13,7 @@ from sklearn.metrics import accuracy_score, classification_report
 # Configuration
 # --------------------------------------------------
 
-DATASET_FILE = "emails_dataset (1).csv"
+DATASET_FILE = "emails_dataset.csv"
 # --------------------------------------------------
 # Load Dataset
 # --------------------------------------------------
